@@ -67,9 +67,9 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 ### Databases & Data Technologies
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,json,graphq" alt="Databases"/>
 
-<img src="https://skillicons.dev/icons?i=json,graphql&theme=dark" alt="Data Technologies"/>
+<img src="https://skillicons.dev/icons?i=l&theme=dark" alt="Data Technologies"/>
 
 ### UI/UX Design & Creative Tools
 
