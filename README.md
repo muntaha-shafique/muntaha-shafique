@@ -74,13 +74,13 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="48" height="48" alt="XML"/>
 </p>
 
+
 ### UI/UX Design & Creative Tools
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" alt="Design Tools"/>
-
-<a href="https://www.canva.com/" title="Canva">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" alt="Design Tools"/>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva"/>
+</p>
 
 
 ### Development & Version Control
