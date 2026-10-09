@@ -24,18 +24,27 @@
 
 ---
 
+
 ## ❄️ About Me
 
+I'm **Muntaha Shafiq**, a Full-Stack Developer, UI/UX Designer, and Founder & CEO of **INDIE**. I'm passionate about transforming ideas into meaningful digital experiences through creative design and modern web technologies.
 
+At **INDIE**, I focus on building modern, responsive, and user-friendly digital solutions that combine clean design with practical functionality. From frontend and backend development to UI/UX design, I aim to create websites that not only look great but also deliver real value to businesses and their customers.
 
-I'm **Muntaha Shafiq**, a Full-Stack Developer and UI/UX Designer passionate about turning ideas into meaningful digital experiences.
+### 💡 My Areas of Focus
 
-As the founder of **INDIE**, I focus on creating modern, responsive and user-friendly web experiences that combine thoughtful design with practical functionality.
+- 💻 **Frontend Development** — HTML, CSS, JavaScript, React, and Bootstrap
+- ⚙️ **Backend Development** — PHP and Laravel
+- 🎨 **UI/UX Design** — User-centered interfaces and responsive layouts
+- 🌐 **Website Development** — Business websites, landing pages, and e-commerce solutions
+- 🛍️ **WordPress Development** — Website creation and redesign
+- 🚀 **Continuous Growth** — Exploring new technologies and building meaningful projects
 
-- 💻 Frontend and backend development
-- 🎨 UI/UX design and responsive interfaces
-- ⚡ Interactive web experiences
-- 🚀 Building projects and continuously improving my skills
+I believe great digital experiences begin with understanding the problem, designing thoughtfully, and building with purpose. I'm always learning, improving my skills, and turning creative ideas into effective digital solutions.
+
+Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses build a strong digital presence.
+
+**Let's connect and turn your ideas into something meaningful.**
 
 <br clear="right"/>
 
