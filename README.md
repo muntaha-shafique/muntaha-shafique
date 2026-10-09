@@ -33,12 +33,15 @@ At **INDIE**, I focus on building modern, responsive, and user-friendly digital 
 
 ### 💡 My Areas of Focus
 
+
 - 💻 **Frontend Development** — HTML, CSS, JavaScript, React, and Bootstrap
 - ⚙️ **Backend Development** — PHP and Laravel
-- 🎨 **UI/UX Design** — User-centered interfaces and responsive layouts
+- 🎨 **UI/UX Design** — Figma, user-centered interfaces, and responsive layouts
 - 🌐 **Website Development** — Business websites, landing pages, and e-commerce solutions
-- 🛍️ **WordPress Development** — Website creation and redesign
-- 🚀 **Continuous Growth** — Exploring new technologies and building meaningful projects
+- 🛍️ **WordPress & Shopify** — Website development, online stores, and redesign
+- 💼 **Freelancing & Client Projects** — Building custom digital solutions for clients and businesses
+- 🔄 **Website Redesign & Optimization** — Improving website design, usability, and responsiveness
+- 🚀 **Personal & Professional Projects** — Building real-world projects and continuously improving my skills
 
 I believe great digital experiences begin with understanding the problem, designing thoughtfully, and building with purpose. I'm always learning, improving my skills, and turning creative ideas into effective digital solutions.
 
