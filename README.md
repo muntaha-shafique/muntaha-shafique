@@ -31,17 +31,16 @@ I'm **Muntaha Shafiq**, a Full-Stack Developer, UI/UX Designer, and Founder & CE
 
 At **INDIE**, I focus on building modern, responsive, and user-friendly digital solutions that combine clean design with practical functionality. From frontend and backend development to UI/UX design, I aim to create websites that not only look great but also deliver real value to businesses and their customers.
 
-### 💡 My Areas of Focus
+###  My Areas of Focus
 
-
-- 💻 **Frontend Development** — HTML, CSS, JavaScript, React, and Bootstrap
-- ⚙️ **Backend Development** — PHP and Laravel
-- 🎨 **UI/UX Design** — Figma, user-centered interfaces, and responsive layouts
-- 🌐 **Website Development** — Business websites, landing pages, and e-commerce solutions
-- 🛍️ **WordPress & Shopify** — Website development, online stores, and redesign
-- 💼 **Freelancing & Client Projects** — Building custom digital solutions for clients and businesses
-- 🔄 **Website Redesign & Optimization** — Improving website design, usability, and responsiveness
-- 🚀 **Personal & Professional Projects** — Building real-world projects and continuously improving my skills
+- **Frontend Development** — HTML, CSS, JavaScript, React, and Bootstrap
+- **Backend Development** — PHP and Laravel
+- **UI/UX Design** — Figma, user-centered interfaces, and responsive layouts
+- **Website Development** — Business websites, landing pages, and e-commerce solutions
+- **WordPress & Shopify** — Website development, online stores, and redesign
+- **Freelancing & Client Projects** — Building custom digital solutions for clients and businesses
+- **Website Redesign & Optimization** — Improving website design, usability, and responsiveness
+- **Personal & Professional Projects** — Building real-world projects and continuously improving my skills
 
 I believe great digital experiences begin with understanding the problem, designing thoughtfully, and building with purpose. I'm always learning, improving my skills, and turning creative ideas into effective digital solutions.
 
