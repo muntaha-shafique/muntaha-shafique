@@ -166,17 +166,13 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Every+contribution+tells+a+story.;Learning%2C+building%2C+and+growing+every+day.;Small+steps.+Consistent+progress." alt="Contribution Journey animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Every+contribution+tells+a+story.;Consistency+creates+progress.;Building+something+better+every+day." alt="Contribution Journey"/>
 
 <br/>
 
-<p><i>Turning consistency into progress, one commit at a time.</i></p>
+<p><i>Learn continuously. Build consistently. Grow every day.</i></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Blue purple contribution snake"/>
 
 <br/>
 
