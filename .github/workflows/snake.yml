@@ -17,13 +17,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
+      - name: Generate blue-purple contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: sheikhsiddique722-sketch
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%237C3AED&color_dots=%230B1220,%231E3A8A,%232563EB,%2360A5FA,%23C4B5FD
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23A78BFA&color_dots=%230B1220,%231E1B4B,%233B2F80,%236D5AE6,%23C4B5FD
 
       - name: Publish animation
         uses: peaceiris/actions-gh-pages@v4
