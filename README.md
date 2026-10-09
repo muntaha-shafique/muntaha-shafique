@@ -67,7 +67,7 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 ### Databases & Data Technologies
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" alt="Databases"/>
 
 <img src="https://skillicons.dev/icons?i=json,graphql&theme=dark" alt="Data Technologies"/>
 
@@ -78,6 +78,12 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 <a href="https://www.canva.com/" title="Canva">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </a>
+
+
+### Development & Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,linux,codepen&theme=dark" alt="Development Tools"/>
+
 
 ### CMS & E-Commerce Platforms
 
@@ -103,48 +109,8 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
 </a>
 
-### Development & Version Control
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,linux,codepen&theme=dark" alt="Development Tools"/>
 
 </div>
-
-
-
-
-
-
-
-
-### 🎨 Design & Creative Tools
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,canva&theme=dark" alt="Design and Creative Tools"/>
-
-### 🌐 CMS & E-Commerce Platforms
-
-<img src="https://skillicons.dev/icons?i=wordpress,shopify&theme=dark" alt="WordPress and Shopify"/>
-
-### 🤖 AI-Powered Development Tools
-
-<img src="https://skillicons.dev/icons?i=google,github&theme=dark" alt="AI and Development Tools"/>
-
-<a href="https://antigravity.google/">
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
-</a>
-<a href="https://cursor.com/">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-</a>
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
