@@ -1,3 +1,10 @@
+### ❄️ My Contributions
+
+![Animated Contribution Graph](https://gitcolors.vercel.app/api/svg?username=sheikhsiddique722-sketch&theme=dark&mode=levels&preset=githubpurple&animate=true&emptyColor=tint)
+
+
+
+
 
 <!-- ═══════════ ARCTIC ICE • PROFILE BANNER ═══════════ -->
 
