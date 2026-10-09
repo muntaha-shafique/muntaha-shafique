@@ -162,27 +162,30 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 ---
 
 
-## 🐍 My Contribution Journey
+## 💙 My Contribution Journey
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Every+pixel+tells+a+story.;Building+consistency+one+commit+at+a+time.;Learning.+Creating.+Growing." alt="Contribution Journey"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Every+pixel+tells+a+story.;Building+consistency+one+commit+at+a+time.;Learning.+Creating.+Growing." alt="Contribution Journey"/>
 
 <br/>
 
 <p>
-  <i>Every contribution is a step forward.</i>
+  <i>✨ Every contribution is a step forward.</i>
 </p>
 
 <img
-  src="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake.svg"
-  width="100%"
-  alt="Blue purple contribution snake animation"
+src="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="Blue and purple contribution snake animation"
 />
 
+<br/>
 
+**💠 LEARN · BUILD · EXPLORE · INNOVATE 💠**
 
 </div>
+
 
 
 ---
