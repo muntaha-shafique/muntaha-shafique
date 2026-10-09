@@ -53,48 +53,59 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 ---
 
 
-## 🧊 Technologies & Tools I Work With
+## 🧊 Tech Stack & Digital Toolkit
 
 <div align="center">
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,jquery&theme=dark" alt="Frontend Development"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,jquery,vite&theme=dark" alt="Frontend Development"/>
 
 ### Backend Development & Frameworks
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" alt="Backend Development"/>
 
-### Databases & Data Formats
+### Databases & Data Technologies
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&theme=dark" alt="Databases"/>
 
-<img src="https://skillicons.dev/icons?i=json,xml&theme=dark" alt="Data Formats"/>
+<img src="https://skillicons.dev/icons?i=json,graphql&theme=dark" alt="Data Technologies"/>
 
 ### UI/UX Design & Creative Tools
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" alt="Design Tools"/>
 
-<a href="https://www.canva.com/">
-  <img src="https://img.shields.io/badge/Canva-Design%20Tool-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<a href="https://www.canva.com/" title="Canva">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </a>
 
 ### CMS & E-Commerce Platforms
 
-<a href="https://wordpress.org/">
+<a href="https://wordpress.org/" title="WordPress">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </a>
-<a href="https://www.shopify.com/">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+<a href="https://www.shopify.com/" title="Shopify">
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+</a>
+
+### AI-Powered Development Tools
+
+<a href="https://antigravity.google/" title="Google Antigravity">
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
+</a>
+<a href="https://cursor.com/" title="Cursor">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+</a>
+<a href="https://chatgpt.com/" title="ChatGPT">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</a>
+<a href="https://claude.ai/" title="Claude">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
 </a>
 
 ### Development & Version Control
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,linux&theme=dark" alt="Development Tools"/>
-
-### Design & Web Technologies
-
-<img src="https://skillicons.dev/icons?i=webpack,vite,md,codepen&theme=dark" alt="Web Technologies"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,linux,codepen&theme=dark" alt="Development Tools"/>
 
 </div>
 
