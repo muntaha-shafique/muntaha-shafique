@@ -65,11 +65,15 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" alt="Backend Development"/>
 
+
 ### Databases & Data Technologies
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,json,graphq" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,graphql&theme=dark" alt="Databases and GraphQL"/>
 
-<img src="https://skillicons.dev/icons?i=l&theme=dark" alt="Data Technologies"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+</p> 
 
 ### UI/UX Design & Creative Tools
 
