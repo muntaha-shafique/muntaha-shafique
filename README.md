@@ -172,40 +172,41 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 ---
 
 
+
 ## 💎 My Philosophy
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:071426,50:1D4ED8,100:4338CA&text=Ideas%20Into%20Impact&fontColor=FFFFFF&fontSize=32&fontAlignY=55&desc=Design%20%7C%20Develop%20%7C%20Innovate&descSize=14&descAlignY=80" width="100%" alt="Ideas Into Impact"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:1D4ED8,100:7C3AED&height=200&section=header&text=Design.%20Develop.%20Innovate.&fontSize=32&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Turning%20Ideas%20Into%20Digital%20Experiences&descSize=14&descAlignY=60" width="100%" alt="Animated Philosophy Banner"/>
 
 <br/>
 
-### Design with Purpose.
-### Build with Passion.
-### Innovate with Confidence.
-
-<p>
-  <i>Every project is an opportunity to learn, create, and improve.</i>
-</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/01-DESIGN-0C4A6E?style=for-the-badge" alt="Design"/>
-<img src="https://img.shields.io/badge/02-DEVELOP-1D4ED8?style=for-the-badge" alt="Develop"/>
-<img src="https://img.shields.io/badge/03-INNOVATE-4338CA?style=for-the-badge" alt="Innovate"/>
-
-<br/><br/>
-
-<a href="https://github.com/sheikhsiddique722-sketch">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Design+with+Purpose.;Build+with+Passion.;Innovate+with+Confidence.;Create+Something+Meaningful." alt="Animated philosophy text"/>
 </a>
 
 <br/><br/>
 
 <p>
-  <i>Building meaningful digital experiences, one project at a time.</i>
+  <em>Every project is an opportunity to learn, create, and improve.</em>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,35:0C4A6E,70:1D4ED8,100:4338CA&height=100&section=footer" alt="Blue purple footer"/>
+<br/>
+
+<img src="https://img.shields.io/badge/DESIGN-0C4A6E?style=for-the-badge&logo=figma&logoColor=white" alt="Design"/>
+<img src="https://img.shields.io/badge/DEVELOP-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Develop"/>
+<img src="https://img.shields.io/badge/INNOVATE-7C3AED?style=for-the-badge&logo=lightning&logoColor=white" alt="Innovate"/>
+
+<br/><br/>
+
+<a href="https://github.com/sheikhsiddique722-sketch">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub"/>
+</a>
+
+<br/><br/>
+
+<p><strong>Building meaningful digital experiences, one project at a time.</strong></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:1D4ED8,100:7C3AED&height=120&section=footer" alt="Blue purple animated footer"/>
 
 </div>
