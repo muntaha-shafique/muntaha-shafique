@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,35:0C4A6E,70:1D4ED8,100:4338CA&height=220&section=header&text=Muntaha%20Shafiq&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER&descAlignY=60&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,35:0C4A6E,70:1D4ED8,100:4338CA&height=220&section=header&text=Muntaha%20Shafique&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER&descAlignY=60&descSize=15&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=93C5FD&center=true&vCenter=true&width=650&lines=Building+Beautiful+Digital+Experiences;Frontend+%7C+Backend+%7C+UI%2FUX;PHP+%7C+Laravel+%7C+React;Founder+%26+CEO+at+INDIE;Learn.+Build.+Innovate." alt="Animated introduction" />
 
