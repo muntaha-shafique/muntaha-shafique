@@ -180,13 +180,7 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
   alt="Blue purple contribution snake animation"
 />
 
-<br/>
 
-<img src="https://img.shields.io/badge/SOFT%20BLUE-E0E7FF?style=for-the-badge" alt="Soft Blue"/>
-<img src="https://img.shields.io/badge/SKY%20BLUE-93C5FD?style=for-the-badge" alt="Sky Blue"/>
-<img src="https://img.shields.io/badge/BRIGHT%20BLUE-60A5FA?style=for-the-badge" alt="Bright Blue"/>
-<img src="https://img.shields.io/badge/ROYAL%20BLUE-3B82F6?style=for-the-badge" alt="Royal Blue"/>
-<img src="https://img.shields.io/badge/PURPLE-8B5CF6?style=for-the-badge" alt="Purple"/>
 
 </div>
 
