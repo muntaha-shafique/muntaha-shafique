@@ -26,7 +26,7 @@
 
 ## ❄️ About Me
 
-<img align="right" width="34%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0C4A6E,100:312E81&height=150&section=header&text=BUILD%20%7C%20CREATE&fontSize=19&fontColor=DBEAFE&animation=fadeIn" />
+
 
 I'm **Muntaha Shafiq**, a Full-Stack Developer and UI/UX Designer passionate about turning ideas into meaningful digital experiences.
 
