@@ -52,21 +52,49 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 ---
 
-## 🧊 Tech Stack & Tools
+
+## 🧊 Technologies & Tools I Work With
 
 <div align="center">
 
-**Frontend Development**
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,jquery&theme=dark" alt="Frontend Development"/>
 
-**Backend & Database**
+### Backend Development & Frameworks
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" alt="Backend Development"/>
 
-**Development & Design Tools**
+### Databases & Data Formats
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&theme=dark" alt="Databases"/>
+
+<img src="https://skillicons.dev/icons?i=json,xml&theme=dark" alt="Data Formats"/>
+
+### UI/UX Design & Creative Tools
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" alt="Design Tools"/>
+
+<a href="https://www.canva.com/">
+  <img src="https://img.shields.io/badge/Canva-Design%20Tool-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</a>
+
+### CMS & E-Commerce Platforms
+
+<a href="https://wordpress.org/">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+</a>
+<a href="https://www.shopify.com/">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+</a>
+
+### Development & Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,linux&theme=dark" alt="Development Tools"/>
+
+### Design & Web Technologies
+
+<img src="https://skillicons.dev/icons?i=webpack,vite,md,codepen&theme=dark" alt="Web Technologies"/>
 
 </div>
 
