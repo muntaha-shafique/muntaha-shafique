@@ -166,21 +166,30 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Every+contribution+tells+a+story.;Consistency+creates+progress.;Building+something+better+every+day." alt="Contribution Journey"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Every+pixel+tells+a+story.;Building+consistency+one+commit+at+a+time.;Learning.+Creating.+Growing." alt="Contribution Journey"/>
 
 <br/>
 
-<p><i>Learn continuously. Build consistently. Grow every day.</i></p>
+<p>
+  <i>Every contribution is a step forward.</i>
+</p>
 
-<img src="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Blue purple contribution snake"/>
+<img
+  src="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="Blue purple contribution snake animation"
+/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LEARN-1E3A8A?style=for-the-badge" alt="Learn"/>
-<img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge" alt="Build"/>
-<img src="https://img.shields.io/badge/GROW-7C3AED?style=for-the-badge" alt="Grow"/>
+<img src="https://img.shields.io/badge/SOFT%20BLUE-E0E7FF?style=for-the-badge" alt="Soft Blue"/>
+<img src="https://img.shields.io/badge/SKY%20BLUE-93C5FD?style=for-the-badge" alt="Sky Blue"/>
+<img src="https://img.shields.io/badge/BRIGHT%20BLUE-60A5FA?style=for-the-badge" alt="Bright Blue"/>
+<img src="https://img.shields.io/badge/ROYAL%20BLUE-3B82F6?style=for-the-badge" alt="Royal Blue"/>
+<img src="https://img.shields.io/badge/PURPLE-8B5CF6?style=for-the-badge" alt="Purple"/>
 
 </div>
+
 
 ---
 
