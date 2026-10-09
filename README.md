@@ -79,7 +79,7 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" alt="Design Tools"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva"/>
+  
 </p>
 
 
