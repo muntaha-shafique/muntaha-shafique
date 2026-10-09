@@ -53,7 +53,7 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 ---
 
 
-## 🧊 Tech Stack & Digital Toolkit
+## Tech Stack & Digital Toolkit
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -145,7 +145,7 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 ---
 
 
-## 💙 My Contribution Journey
+## My Contribution Journey
 
 <div align="center">
 
@@ -171,7 +171,7 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 <br/>
 
 <p>
-  <i>✨ Every contribution is a step forward.</i>
+  <i> Every contribution is a step forward.</i>
 </p>
 
 <img
@@ -192,7 +192,7 @@ alt="Blue and purple contribution snake animation"
 
 
 
-## 💎 My Philosophy
+##  My Philosophy
 
 <div align="center">
 
