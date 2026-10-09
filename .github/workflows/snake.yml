@@ -1,5 +1,5 @@
-
-name: Generate Pixel-Art Contribution Snake
+```yaml
+name: Generate Blue Purple Contribution Snake
 
 on:
   schedule:
@@ -17,13 +17,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pixel-Art Blue Purple Snake
+      - name: Generate Blue Purple Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: sheikhsiddique722-sketch
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%237C3AED&color_dots=%23E0E7FF,%2393C5FD,%2360A5FA,%233B82F6,%238B5CF6
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%237C3AED&color_dots=%23E0E7FF,%2393C5FD,%2360A5FA,%233B82F6,%238B5CF6
+            dist/github-contribution-grid-snake.svg?color_snake=%238B5CF6&color_dots=%23E0E7FF,%2393C5FD,%2360A5FA,%233B82F6,%238B5CF6
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%238B5CF6&color_dots=%23E0E7FF,%2393C5FD,%2360A5FA,%233B82F6,%238B5CF6
 
       - name: Publish Contribution Animation
         uses: peaceiris/actions-gh-pages@v4
@@ -31,3 +31,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+```
