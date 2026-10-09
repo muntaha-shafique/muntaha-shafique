@@ -68,12 +68,11 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 ### Databases & Data Technologies
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,graphql&theme=dark" alt="Databases and GraphQL"/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-</p> 
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,graphql&theme=dark" alt="Databases and GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="48" height="48" alt="JSON"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="48" height="48" alt="XML"/>
+</p>
 
 ### UI/UX Design & Creative Tools
 
