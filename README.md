@@ -161,11 +161,28 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 ---
 
-## 🐍 Contribution Journey
+
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake.svg" alt="Animated contribution snake"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Every+contribution+tells+a+story.;Learning%2C+building%2C+and+growing+every+day.;Small+steps.+Consistent+progress." alt="Contribution Journey animation"/>
+
+<br/>
+
+<p><i>Turning consistency into progress, one commit at a time.</i></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sheikhsiddique722-sketch/sheikhsiddique722-sketch/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LEARN-1E3A8A?style=for-the-badge" alt="Learn"/>
+<img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge" alt="Build"/>
+<img src="https://img.shields.io/badge/GROW-7C3AED?style=for-the-badge" alt="Grow"/>
 
 </div>
 
