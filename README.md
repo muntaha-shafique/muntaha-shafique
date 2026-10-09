@@ -12,9 +12,7 @@
 <a href="https://github.com/sheikhsiddique722-sketch">
 <img src="https://img.shields.io/badge/GitHub-Profile-0B1F3A?style=for-the-badge&logo=github&logoColor=93C5FD" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/muntaha-shafiq-2830213a8/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/muntahashafiq/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/> </a>
 
 <br/><br/>
 
