@@ -171,24 +171,41 @@ Through **INDIE**, my goal is to help startups, entrepreneurs, and businesses bu
 
 ---
 
+
 ## 💎 My Philosophy
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:071426,50:1D4ED8,100:4338CA&text=Ideas%20Into%20Impact&fontColor=FFFFFF&fontSize=32&fontAlignY=55&desc=Design%20%7C%20Develop%20%7C%20Innovate&descSize=14&descAlignY=80" width="100%" alt="Ideas Into Impact"/>
+
+<br/>
 
 ### Design with Purpose.
 ### Build with Passion.
 ### Innovate with Confidence.
 
-*Every project is an opportunity to learn, create and improve.*
+<p>
+  <i>Every project is an opportunity to learn, create, and improve.</i>
+</p>
 
 <br/>
 
+<img src="https://img.shields.io/badge/01-DESIGN-0C4A6E?style=for-the-badge" alt="Design"/>
+<img src="https://img.shields.io/badge/02-DEVELOP-1D4ED8?style=for-the-badge" alt="Develop"/>
+<img src="https://img.shields.io/badge/03-INNOVATE-4338CA?style=for-the-badge" alt="Innovate"/>
+
+<br/><br/>
+
 <a href="https://github.com/sheikhsiddique722-sketch">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-1D4ED8?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Let's connect"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,35:0C4A6E,70:1D4ED8,100:4338CA&height=120&section=footer" alt="Arctic Ice footer"/>
+<p>
+  <i>Building meaningful digital experiences, one project at a time.</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,35:0C4A6E,70:1D4ED8,100:4338CA&height=100&section=footer" alt="Blue purple footer"/>
 
 </div>
